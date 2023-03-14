@@ -1,8 +1,8 @@
-site_name: Running Containerized Applications with Docker
-site_url: https://muritalatolanrewaju.github.io/Running-Containerized-Applications-with-Docker/
+site_name: Securing and Hardening a Linux System
+site_url: https://muritalatolanrewaju.github.io/Securing-and-Hardening-a-Linux-System/
 site_author: Muritala Olanrewaju
-repo_name: muritalatolanrewaju/Running-Containerized-Applications-with-Docker/
-repo_url: https://github.com/muritalatolanrewaju/Running-Containerized-Applications-with-Docker/
+repo_name: muritalatolanrewaju/Securing-and-Hardening-a-Linux-System/
+repo_url: https://github.com/muritalatolanrewaju/Securing-and-Hardening-a-Linux-System
 theme:
   name: material
   features:
