@@ -1,6 +1,7 @@
 # Securing and Hardening a Linux System
 ## This project covers how to secure and harden a Linux system.
 ![Untitled](docs/assets/overview.png)
+
 In today's digital age, where Linux powers a significant portion of internet servers, prioritizing the security of Linux systems is crucial in preventing cyber-attacks and data breaches. This Practical Linux, Security, and Hardening project guide individuals seeking to implement security measures and best practices to secure and harden their Linux systems.
 
 This guide is based on OpenSCAP configurations, including the U.S. Government Commercial Cloud Services (C2S) baseline inspired by CIS v2.1.1, C2S for Red Hat Enterprise Linux 7 v0.1.43, and the Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG). In addition, these configurations are derived from NIST 800-53 and related documents.
