@@ -14,11 +14,11 @@ Lastly, the project emphasizes the importance of staying up-to-date with the lat
 
 Overall, this technical project provides a comprehensive guide to securing and hardening a Linux system using various techniques and tools based on OpenSCAP configurations. By implementing these security measures and best practices, users can reduce vulnerability to attacks and ensure better protection against data breaches.
 
-1. [Installation of Docker Engine on Ubuntu](docs/1-installing-docker-engine-on-ubuntu.md): The project starts with the installation of the Docker Engine on Ubuntu. It covers the installation process, checking the installed version, and configuring Docker to start on boot.
-2. [Understanding Docker Client](docs/2-the-docker-client.md): Next, the project explains the Docker client and its role in managing Docker containers. It covers various Docker commands, such as docker run, docker stop, docker ps, and docker logs.
-3. [Lab: Running Web Servers in a Docker Container](docs/3-lab-running-webservers-in-a-docker-container.md): The project includes a lab on running web servers in a Docker container. It explains how to create a Dockerfile, build a Docker image, and run a Docker container. The lab covers using different web server images, such as Apache and Nginx.
-4. [Getting Shell Access to a Container](docs/4-getting-shell-access-to-a-container.md): The project explains how to access shell of a running container. It covers using the Docker exec command and Docker attach command to access shell of a container.
-5. [Modifying a Container](docs/5-modifying-a-container.md): The project also covers modifying a running container. It explains how to create a new image from a running container, modify the image, and create a new container from the modified image.
+1. [General Security](docs/1-general-security.md) 
+2. [Physical Security](docs/2-physical-security.md)
+3. [Account Security](docs/3-account-security.md)
+4. [Network Security](docs/4-network-security.md)
+5. [File System Security](docs/5-file-system-security.md)
+6. [Additional Security Measures](docs/6-additional-security-measures.md)
 
-This practical project provides a comprehensive understanding of Securing and Hardening a Linux System on Ubuntu. It covers the installation process, understanding the Docker client, running web servers in a Docker container, accessing the shell of a container, and modifying a container. This project is a must-do for anyone interested in Docker and containerization.
 
