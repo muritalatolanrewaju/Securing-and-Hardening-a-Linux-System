@@ -1,11 +1,17 @@
 # Overview
 ![Untitled](assets/overview.png)
 
-The Docker Project started in 2013 and became the de facto standard for executing programs in a portable sandbox environment called a "container." It is probably one of the reasons for the high rate of cloud adoption in the industry.
+In today's digital age, where Linux powers a significant portion of internet servers, prioritizing the security of Linux systems is crucial in preventing cyber-attacks and data breaches. This Practical Linux, Security, and Hardening project guide individuals seeking to implement security measures and best practices to secure and harden their Linux systems.
 
-One of the predictions of the analyst firm Gartner is that by 2022, 75% of organizations will be running three or more containerized applications in production. So it is high time for organizations to jump on board. Docker changed the IT infrastructure, and everybody uses it. Big cloud providers like Amazon, Microsoft, Google, or any of today's big corporations use Docker.
+This guide is based on OpenSCAP configurations, including the U.S. Government Commercial Cloud Services (C2S) baseline inspired by CIS v2.1.1, C2S for Red Hat Enterprise Linux 7 v0.1.43, and the Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG). In addition, these configurations are derived from NIST 800-53 and related documents.
 
-This practical project focuses on Securing and Hardening a Linux System on Ubuntu. The project covers the installation of Docker Engine, understanding Docker Client, running web servers in a Docker container, accessing the shell of a container, and modifying a container.
+This project provides valuable insights into how attackers can breach Linux systems when they have physical access and various countermeasures to safeguard against such attacks. It also covers the authentication systems utilized in Linux, including creating strong passwords and managing account and password expirations for different account types.
+
+The networking section of the project offers guidance on securing network services running on Linux systems and configuring the local firewall. Furthermore, the project delves into Linux file system security, including permissions, special modes, file attributes, and ACLs, to ensure adequate protection against data breaches.
+
+Lastly, the project emphasizes the importance of staying up-to-date with the latest security concerns for your Linux distribution and continuing your security education.
+
+Overall, this technical project provides a comprehensive guide to securing and hardening a Linux system using various techniques and tools based on OpenSCAP configurations. By implementing these security measures and best practices, users can reduce vulnerability to attacks and ensure better protection against data breaches.
 
 1. [Installation of Docker Engine on Ubuntu](docs/1-installing-docker-engine-on-ubuntu.md): The project starts with the installation of the Docker Engine on Ubuntu. It covers the installation process, checking the installed version, and configuring Docker to start on boot.
 2. [Understanding Docker Client](docs/2-the-docker-client.md): Next, the project explains the Docker client and its role in managing Docker containers. It covers various Docker commands, such as docker run, docker stop, docker ps, and docker logs.
