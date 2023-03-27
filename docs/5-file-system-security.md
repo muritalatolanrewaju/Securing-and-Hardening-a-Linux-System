@@ -1,4 +1,4 @@
-# Modifying a Container
+# File System Security
 
 ## 1. Committing Container Changes into a New Image
 
