@@ -14,11 +14,4 @@ Lastly, the project emphasizes the importance of staying up-to-date with the lat
 
 Overall, this technical project provides a comprehensive guide to securing and hardening a Linux system using various techniques and tools based on OpenSCAP configurations. By implementing these security measures and best practices, users can reduce vulnerability to attacks and ensure better protection against data breaches.
 
-1. [General Security](docs/1-general-security.md) 
-2. [Physical Security](docs/2-physical-security.md)
-3. [Account Security](docs/3-account-security.md)
-4. [Network Security](docs/4-network-security.md)
-5. [File System Security](docs/5-file-system-security.md)
-6. [Additional Security Measures](docs/6-additional-security-measures.md)
-
 
