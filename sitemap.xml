@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Securing-and-Hardening-a-Linux-System/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Securing-and-Hardening-a-Linux-System/1-securing-the-bool-loader-%28GRUB%29/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Securing-and-Hardening-a-Linux-System/2-securing-the-openssh-server/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://muritalatolanrewaju.github.io/Securing-and-Hardening-a-Linux-System/3-enforcing-password-policy/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
